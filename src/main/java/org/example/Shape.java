@@ -1,4 +1,4 @@
-package com.dkit.oop;
+package org.example;
 // Abstract class
 //
 // Use an Abstract class when:
@@ -35,7 +35,7 @@ package com.dkit.oop;
 // then consequently, we must define the Shape class to be ABSTRACT also.
 // All subclasses will have to implement area() and draw().
 
-public abstract class Shape {
+public abstract class Shape implements IShape{
     private int x; // position top left corner  - a field required in all subclasses
     private int y;
 

@@ -1,4 +1,4 @@
-package com.dkit.oop;
+package org.example;
 
 /**
  * Abstract class Shape

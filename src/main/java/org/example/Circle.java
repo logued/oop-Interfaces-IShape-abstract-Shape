@@ -1,4 +1,4 @@
-package com.dkit.oop;
+package org.example;
 
 /**
  * Represents a Circle object and extends Shape.
